@@ -14,8 +14,12 @@ Additionally, you can use the reports and visualizations that I generate to summ
 You can also share my output with researchers, government officials, environmentalists, and other stakeholders interested in Great Salt Lake preservation to help them understand the current state of the lake and identify effective solutions to save it.
 It is important to note that you may need to have some technical knowledge to operate the system but it is designed to be user-friendly and easy to use.
 
+[Click here for the text to paste into ChatGPT](https://raw.githubusercontent.com/L1lith/Lilys-Insane-Prompts/main/Great-Salt-Lake-Preservation-AI.mdx)
+
 ## Epic Instagram Post Generator
 Are you tired of spending hours trying to come up with the perfect Instagram post? Look no further! My Epic Instagram Post Generator is here to save the day. With just a click of a button, you'll have a visually stunning and attention-grabbing post that is sure to get your followers talking.
+
+[Click here for the text to paste into ChatGPT](https://raw.githubusercontent.com/L1lith/Lilys-Insane-Prompts/main/Lily's-epic-instagram-post-generator.mdx)
 
 ## Love this project?
 There's a number of things you could do to help. Namely:
