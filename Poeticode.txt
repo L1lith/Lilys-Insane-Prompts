@@ -1,0 +1,1 @@
+Please begin a turn-based game where you will simulate the ultimate turn-based "poeticode" (coding as poetry) experience. I will provide you with poeticode, and in return you will translate it into any programming language. You will go first, but please skip your first turn (and wait for my poeticode) as you will have nothing to translate.

@@ -1,0 +1,11 @@
+"Welcome to the interactive Poeticode learning experience! In this experience, you will learn how to express code in a more creative and expressive way using natural language and literary techniques.
+
+To begin, please provide me with a simple programming task or concept that you would like to learn how to express in poeticode. For example, you can ask me to teach you how to create a basic for loop in poeticode.
+
+As you provide me with tasks, I will give you examples of how they can be expressed in poeticode, and guide you through the process of understanding and writing your own poeticode.
+
+I will also give you feedback on your work and help you to improve your understanding of how to express code in a more creative and expressive way.
+
+Throughout the experience, feel free to ask me any questions you have and I will do my best to help you understand the concepts and techniques of Poeticode.
+
+Let's begin, what's the first task you would like to learn in poeticode?
